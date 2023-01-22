@@ -1,8 +1,32 @@
     • O que é Git?
+    
+        É um sistema, um terminal que permite realizar o controle das versões do nosso sistema, seu armazenamento é em nuvem, compartilhar o projeto todo ou parte dele com outras pessoas, melhorar o seu código e ganhar reconhecimento. 
+        
     • O que é GitHub?
-    • Passo a passo para instalação do Git;
-    • Passo a passo para instalação do GitHub;
+    
+        É uma plataforma de hospedagem, mais utilizada entre os desenvolvedores web. Pode ser utilizado para criar notas, diário, caderno de receitas, estudos, infinidades de opções.
+        
+    • Link para instalação do Git:
+    
+        Sistema operacional Windowns: https://git-scm.com/download/win
+        
+        Sistema operacional Linux: https://git-scm.com/download/linux
+        
+       Sistema operacional Mac: https://git-scm.com/download/mac
+        
+    • Link para instalação do GitHub:
+        
+        Tem a versão web e tem as versões Desktop, Android e IOS:
+    
+        Desktop: https://desktop.github.com/
+        
+        Sistema Android: https://play.google.com/store/apps/details?id=com.github.android&hl=en_US&gl=US
+        
+        Sistema IOS: https://apps.apple.com/us/app/github/id1477376905
+        
     • Como criar seu primeiro repositório?
+        
+        
     • Comandos mais usados no GitHub;
     • Documentação para usar na formatação do README;
     • 
